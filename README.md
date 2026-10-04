@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3FB950&random=false&width=640&lines=%24+whoami+%3E+decolua;unlimited+free+AI+coding+%40+9router;terminal+in+your+pocket+%40+9remote;reverse+engineering+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3FB950&random=false&width=640&lines=%24+whoami+%3E+decolua;unlimited+free+AI+coding+%40+9router;your+workstation+in+your+pocket+%40+9remote)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,13 +9,7 @@
 ## 🚀 Featured Projects
 
 - 🔌 **[9router](https://github.com/decolua/9router)** — Unlimited **FREE AI coding**. Connect Claude Code, Codex, Cursor, Cline, Copilot to free Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. **⭐ 30k+**
-- 📱 **[9remote](https://github.com/decolua/9remote)** — Terminal in your pocket. Control Claude Code, Codex, Gemini CLI & your machine from any phone or browser.
-
-## 🔍 Reverse Engineering
-
-- **[tiktok-api](https://github.com/decolua/tiktok-api)** — TikTok security algorithms, scraping & automation
-- **[tiktok-web-reverse-engineering](https://github.com/decolua/tiktok-web-reverse-engineering)** — X-Bogus & X-Gnarly, strData, eData encrypt/decrypt
-- **[webmssdk_patch](https://github.com/decolua/webmssdk_patch)** — DRM webmssdk patches
+- 📱 **[9remote](https://github.com/decolua/9remote)** — Your entire dev workstation in your pocket. Remote IDE, 60fps desktop stream, visual file explorer, live mobile emulator, zero-config localhost preview — and Claude Code, Codex, Gemini CLI & 30+ AI agents in **one UI**, on Web, desktop, iOS & Android. **[9remote.cc](https://9remote.cc)**
 
 ## 📊 Stats
 
